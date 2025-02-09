@@ -17,9 +17,13 @@
 Intuituion behind UML Diagram
 
  S -> Single responsibility principle -. manager class with their own responsibility
+ 
  O -> Open Closed Principle -> allow extensibility without modifying the core logic .
+ 
  L -> Liskov Substitution Principle -> follow a common interface so that system can switch between them 
+ 
  I -> Interface Segregation Principle -> seperate interface ensuring that class only implement relevant methods. 
+ 
  D -> Dependency Inversion Principle -> High level module do not depend on low level implementation but rather on abstraction
 
  ![image](https://github.com/user-attachments/assets/b3a1a247-83ce-4ead-94d7-a933fee92ef6)
